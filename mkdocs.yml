@@ -1,0 +1,30 @@
+site_name: MiruMir Wiki
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Переключить тему
+nav:
+  - Введение: README.md
+  - Моддинг:
+      - Общее: modding/index.md
+      - Рецепты: modding/recipes.md
+      - Предметы: modding/items.md
+      - Функции: modding/functions.md
+  - Геймдизайн:
+      - Общее: gamedesign/index.md
+      - Механики: gamedesign/mechanics.md
+  - Сервер:
+      - Общее: server/index.md
+      - Настройка сервера: server/setup.md
+      - Плагины: server/plugins.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
