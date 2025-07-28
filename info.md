@@ -6,7 +6,7 @@ icon: comment-question
 
 ## — Как попасть на сервер?
 
-Для того чтобы попасть на сервер, приобретите проходку за **баллы на Twitch-каналах партнёров (**[**MiraRayns**](https://twitch.tv/MiraRayns)**,** [**nyanpeach**](https://twitch.tv/nyanpeach)**)**, либо за **100 российских рублей** по [ссылке](https://www.donationalerts.com/r/mirarayns). Затем перейдите в канал [`#подать-заявку`](https://discord.gg/G8ZSRQ7nBA) в нашем [Discord-сервере](https://discord.gg/qwguraexUX) и используя бота, подайте заявку и заполните необходимые поля.
+Для того чтобы попасть на сервер, приобретите проходку за **баллы на Twitch-каналах партнёров (**[**MiraRayns**](https://twitch.tv/MiraRayns)**)**, либо за **100 российских рублей** по [ссылке](https://www.donationalerts.com/r/mirarayns). Затем перейдите в канал [`#подать-заявку`](https://discord.gg/G8ZSRQ7nBA) в нашем [Discord-сервере](https://discord.gg/qwguraexUX) и используя бота, подайте заявку и заполните необходимые поля.
 
 ### — Какой IP у сервера?
 
